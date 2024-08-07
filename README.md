@@ -1,0 +1,1 @@
+A pet facial expression prediction system using neural networks (CNN). The system will be designed to classify pet facial images into different emotional states, such as happiness, sadness, angry, and others, providing valuable insights into pets' emotional well-being. Additionally, we will try to see the changes in accuray in this model by using different optimizers.
